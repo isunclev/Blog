@@ -16,7 +16,7 @@ DJango+Bootstrap开发博客系统
   </ul>
 </ul>
 </hr>
-<h2>设计知识点</h2>
+<h2>涉及知识点</h2>
 <ul>
     <li>
         后端
