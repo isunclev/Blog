@@ -15,3 +15,112 @@ DJango+Bootstrap开发博客系统
     <li>用户注册/登录/修改密码</li>
   </ul>
 </ul>
+</hr>
+<h2>设计知识点</h2>
+<ul>
+    <li>
+        后端
+        <ul>
+            <li>
+                Url路由
+                <ul>
+                    <li>路由配置</li>
+                    <li>路由别名</li>
+                </ul>
+            </li>
+            <li>View处理方法</li>
+            <li>
+                Model模型
+                <ul>
+                    <li>模型对象获取</li>
+                    <li>条件查询</li>
+                    <li>链式查询</li>
+                    <li>外键处理</li>
+                    <li>数据统计</li>
+                </ul>
+            </li>
+            <li>
+                模板系统
+                <ul>
+                    <li>模板渲染</li>
+                    <li>模板嵌套</li>
+                    <li>模板标签</li>
+                    <li>过滤器</li>
+                    <li>自定义标签和过滤器</li>
+                    <li>上下文处理器</li>
+                </ul>
+            </li>
+            <li>
+                用户认证
+                <ul>
+                    <li>用户登录</li>
+                    <li>用户注册</li>
+                    <li>修改密码</li>
+                    <li>用户模型拓展</li>
+                </ul>
+            </li>
+            <li>
+                Form表单处理
+                <ul>
+                    <li>表单认证</li>
+                    <li>表单处理</li>
+                    <li>CSRF安全问题</li>
+                </ul>
+            </li>
+            <li>静态文件处理</li>
+            <li>媒体文件处理</li>
+            <li>使用缓存</li>
+            <li>
+                Admin后台管理
+                <ul>
+                    <li>汉化</li>
+                    <li>富文本编辑</li>
+                    <li>自定义显示字段</li>
+                </ul>
+            </li>
+            <li>settings配置</li>
+        </ul>
+    </li>
+    <li>
+        前端
+        <ul>
+            <li>
+                前端基础
+                <ul>
+                    <li>html</li>
+                    <li>Javascript</li>
+                    <li>CSS</li>
+                </ul>
+            </li>
+            <li>
+                jQuery
+                <ul>
+                    <li>选择器</li>
+                    <li>事件绑定</li>
+                    <li>form表单提交</li>
+                    <li>ajax异步提交</li>
+                </ul>
+            </li>
+            <li>
+                Bootstrap
+                <ul>
+                    <li>快速布局</li>
+                    <li>响应式布局</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+</ul>
+<h2>项目包介绍</h2>
+</hr>
+<pre>
+    <code>
+        asgiref==3.2.7
+        Django==3.0.5
+        django-ckeditor==5.9.0
+        django-js-asset==1.2.2
+        Pillow==7.1.1
+        pytz==2019.3
+        sqlparse==0.3.1
+    </code>
+</pre>
