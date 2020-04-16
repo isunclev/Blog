@@ -35,7 +35,15 @@ DJango+Bootstrap开发博客系统
                     <li>模型对象获取</li>
                     <li>条件查询</li>
                     <li>链式查询</li>
-                    <li>外键处理</li>
+                    <li>
+                        外键处理
+                        <ul>
+                            <li>OneToOneField</li>
+                            <li>ForeignKey</li>
+                            <li>ManyToManyField</li>
+                            <li>ContentType</li>
+                        </ul>
+                    </li>
                     <li>数据统计</li>
                 </ul>
             </li>
